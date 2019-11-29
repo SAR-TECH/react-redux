@@ -1,0 +1,9 @@
+Install Node
+
+Pretitier -- Optional for code formatting...
+
+Babel : is a JavaScript compiler.
+
+Babel: Transpiles JSX and Modern JS features like object, spread, class properties, dynamic imports, and more to run in today's browers.
+
+to automate our build process we're going to use npm scripts. Npm scripts are a simple automation tool that's built into npm.
